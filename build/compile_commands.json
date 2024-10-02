@@ -1,0 +1,8 @@
+[
+{
+  "directory": "/Users/cameronwitz/RayTracingTutorial/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/cameronwitz/RayTracingTutorial/PPM_Images/include -g -std=gnu++11 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX13.3.sdk -mmacosx-version-min=13.0 -o CMakeFiles/basic_ppm.dir/main.cpp.o -c /Users/cameronwitz/RayTracingTutorial/PPM_Images/main.cpp",
+  "file": "/Users/cameronwitz/RayTracingTutorial/PPM_Images/main.cpp",
+  "output": "CMakeFiles/basic_ppm.dir/main.cpp.o"
+}
+]
